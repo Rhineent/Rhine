@@ -88,6 +88,9 @@ nav{display: flex;
     .text-box h1{
         font-size:20px;
     }
+    .text-box p{
+        font-size:10px;
+    }
 }
 
 
